@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WittraCloud
+👋 Hi, I’m @WittraCloud
 
 This is the official account for the Cloud team at Wittra. 
 
